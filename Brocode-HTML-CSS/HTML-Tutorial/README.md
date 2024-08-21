@@ -2,6 +2,8 @@
 
 **Day 1		:** 0 - 38:21 (Chapter 8)
 
+**Day 2		:** 38:21 - 1:23:09 (Chapter 13)
+
 ## Source
 
 **Source Link	:** https://www.youtube.com/watch?v=HGTJBPNC-Gw&t=1770s
@@ -12,4 +14,4 @@
 
 **Start		:** Tuesday, 20 August 2024
 
-**End			:** -
+**End			:** Wednesday, 21 August 2024
